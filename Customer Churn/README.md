@@ -1,5 +1,5 @@
 # Customer Churn with bank data
-This project uses a combination of machine learning and deep learning to find out what is the best model to use for customer churn prediction <br>
+This group project uses a combination of machine learning and deep learning to find out what is the best model to use for customer churn prediction <br>
 The list of machine learning used are
 - ANN
 - Naive Bayes
